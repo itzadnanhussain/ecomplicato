@@ -1,0 +1,33 @@
+email,professional_parent,profession_child,main_contact_name,main_contact_email,main_contact_phone,additional_contact_info,availability,business_name,address_text,address_lat,address_lng,unit_suite,city,state,hourly_rate_id,,,,,,,,,,,,,
+NorthwesternMutual@test.com,Health & Fitness,Nutritionist_Dietician,Michael Lyubinsky,MichaeilL@test.com,2024032570,Support~support@test.com~2024032570,"monday~9:00:00~17:00:00,
+tuesday~9:00:00~17:00:00,
+wednesday~9:00:00~17:00:00,
+thursday~9:00:00~17:00:00,
+friday~9:00:00~17:00:00
+","Northwestern Mutual - Michael Lyubinsky, Financial Advisor",1801 K St NW ,,,#210,"Washington, D.C.",DC,50_150,,,,,,,,,,,,,
+EdwardJ@test.com,financial,financial_advisor,Kenneth A Hopkins,KennethH@test.com,2025589107,Info~info@test.com~2025589107,"monday~9:00:00~17:00:00,
+tuesday~9:00:00~17:00:00,
+wednesday~9:00:00~17:00:00,
+thursday~9:00:00~17:00:00,
+friday~9:00:00~17:00:00
+","Edward Jones - Financial Advisor: Kenneth A Hopkins, AAMS",490 L'Enfant Plaza SW,,,8102,"Washington, D.C.",DC,less_than_50,,,,,,,,,,,,,
+Nustaspa@test.com,life_&_leisure,massage_therapist,Front Desk,Nustaspa@test.com,2025305700,Booking~booking@test.com~2025305700,"monday~9:00:00~17:00:00,
+tuesday~9:00:00~17:00:00,
+wednesday~9:00:00~17:00:00,
+thursday~9:00:00~17:00:00,
+friday~9:00:00~17:00:00
+",Nusta Spa,1129 20th St NW,,,,"Washington, D.C.",DC,less_than_50,,,,,,,,,,,,,
+WashingotnNutrition@test.com,health_&_fitness,nutritionist_dietician,Front Desk,WashingtonNutrition@test.com,7035522722,Info~info@test.com~7035522722,"monday~8:00:00~16:00:00,
+tuesday~8:00:00~16:00:00,
+wednesday~8:00:00~16:00:00,
+thursday~8:00:00~16:00:00,
+friday~8:00:00~16:00:00
+",Washington Nutrition & Counseling Group,1200 G St. NW,,,800,"Washington, D.C.",DC,50_150,,,,,,,,,,,,,
+law@myattorneywagner.com,legal,"lawyer_attorney,divorce_coach",Camille Wagner,law@myattorneywagner.com,2026308812,,"monday~8:00:00~18:00:00,
+tuesday~8:00:00~18:00:00,
+wednesday~8:00:00~18:00:00,
+thursday~8:00:00~18:00:00,
+friday~8:00:00~18:00:00,
+saturday~9:00:00~17:00:00,
+sunday~9:00:00~17:00:00
+",Wagner PLLC,1629 K St NW,,,300,"Washington, D.C.",DC,150_300,,,,,,,,,,,,,
